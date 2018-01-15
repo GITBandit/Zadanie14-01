@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 @Component
-@Primary //domyślna implementacja interfejsu NotifyLogger, bez tego otrzymamy NoUniqueBeanDefinitionException
+//@Primary //domyślna implementacja interfejsu NotifyLogger, bez tego otrzymamy NoUniqueBeanDefinitionException
 public class FileLogger implements NotifyLogger {
 
     @Override

@@ -10,8 +10,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class FileNotificationReader {
+public class FileNotificationReader implements NotificationReader {
 
+    @Override
     public List<Notification> getNotifications() throws IOException {
         List<String> notificationsString = Files.readAllLines(Paths.get("notifications.csv"));
         List<Notification> notifications = new ArrayList<>();

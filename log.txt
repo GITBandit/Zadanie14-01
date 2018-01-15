@@ -1,0 +1,12 @@
+LOG INFO 1515968817374 Notification{username='jan', email='jan@kowalski.pl', telephone='12345678', content='Cześć mam dla Ciebie super ofertę'}
+LOG INFO 1515968817391 Notification{username='kasia', email='kasia@kowalska.pl', telephone='2343454564', content='Nowa pralka już czeka'}
+LOG INFO 1516049367179 Notification{username='asd', email='dsa', telephone='asd', content='dsa'}
+LOG INFO 1516049459611 Notification{username='asd', email='dsa', telephone='123', content='ddd'}
+LOG INFO 1516049560403 Notification{username='asd', email='dsa', telephone='123', content='ddd'}
+LOG INFO 1516049898304 Notification{username='asd', email='dsa', telephone='12', content='32'}
+LOG INFO 1516050228553 Notification{username='naz', email='em', telephone='123', content='tre'}
+LOG INFO 1516050780876 Notification{username='naz', email='ema', telephone='12', content='tre'}
+LOG INFO 1516051426081 Notification{username='naz', email='ema', telephone='321', content='treasc'}
+LOG INFO 1516051450421 Notification{username='naz', email='ema', telephone='123', content='tre'}
+LOG INFO 1516051835946 Notification{username='naz', email='ema', telephone='2432', content='treasc'}
+LOG INFO 1516051897918 Notification{username='nazwa', email='email', telephone='2342342', content='do wyslania'}
